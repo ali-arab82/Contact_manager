@@ -16,5 +16,3 @@ if the program gives an error comment system("clear") in main.cpp and Contact.cp
 
 
 انجام شده
-
-Developer: Ali Arab
