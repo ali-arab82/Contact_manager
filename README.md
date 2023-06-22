@@ -10,8 +10,6 @@ if the program gives an error comment system("clear") in main.cpp and Contact.cp
 
 نوشتن برنامه در فایل های مجزا,
 
-نوشتن کد SOLID(تشخیص با استاد),
-
 استفاده از گیت و انتشار در GitHub
 
 
